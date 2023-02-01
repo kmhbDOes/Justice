@@ -1,0 +1,46 @@
+
+.banner{
+    background-image: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url('../images/banner.png');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.img1{
+    background-image: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url('../images/slider-1.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.img2{
+    background-image: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url('../images/closeup-gavel-judgement-concept.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.img3{
+    background-image: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url('../images/slider-3.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+
+
+.accordion-button {
+    background-color: #F5F5F5;  
+}
